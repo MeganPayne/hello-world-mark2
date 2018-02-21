@@ -2,3 +2,7 @@ h1 {
   color: red;
   background-color: blue;
 }
+h2 {
+  background-color: linear-gradient(bottom, rgba(255,0,0,0.4), rgba(0,255,0,1))
+  color: white;
+}
