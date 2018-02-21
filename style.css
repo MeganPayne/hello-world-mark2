@@ -1,8 +1,10 @@
 h1 {
-  color: red;
+  color: white;
   background-color: blue;
 }
 h2 {
-  background-color: linear-gradient(bottom, rgba(255,0,0,0.4), rgba(0,255,0,1))
-  color: white;
+  background: linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.4));
+  background: -webkit-linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.4));
+  background: -moz-linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.4));
+  color: green;
 }
